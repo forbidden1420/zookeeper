@@ -1,4 +1,4 @@
-# zookeeper源码解析笔记
+# zookeeper源码阅读笔记
 
 * [单机模式结构](https://github.com/forbidden1420/zookeeper/issues/1)
 * [单机模式启动流程](https://github.com/forbidden1420/zookeeper/issues/2)
